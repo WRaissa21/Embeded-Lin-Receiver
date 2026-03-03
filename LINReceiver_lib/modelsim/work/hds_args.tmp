@@ -1,1 +1,0 @@
- -L LINReceiver_lib -l ../transcript.txt -i -t ns -multisource_delay latest +typdelays LINReceiver_lib.InterfaceMicroprocesseur_SousTest(struct)
