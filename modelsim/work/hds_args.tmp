@@ -1,1 +1,0 @@
- -L operative_part_lib -l ../transcript.txt -i -t ns -multisource_delay latest +typdelays operative_part_lib.test_bench_fin(struct)
