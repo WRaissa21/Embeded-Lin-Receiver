@@ -1,0 +1,2 @@
+work "C:/Apps/MentorGraphics/PS2021.2_64-bit/Mgc_home/pkgs/rtlc_psr/rtlc/lib/unimacro.v" -quiet -2000
+work "C:/Apps/MentorGraphics/PS2021.2_64-bit/Mgc_home/pkgs/rtlc_psr/rtlc/lib/xcv7_retarget_lib.v" -quiet -2000

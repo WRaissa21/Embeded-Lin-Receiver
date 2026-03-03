@@ -1,0 +1,9 @@
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/fifo_struct.vhd" -2002
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/lin_receiver_arch.vhd" -2008
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/decoder_counter_tbl.vhd" -2002
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/internal_state_struct.vhd" -2002
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/command_unit_arch.vhd" -2008
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/decoder_tbl.vhd" -2002
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/operative_part_struct.vhd" -2002
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/lin_processing_struct.vhd" -2002
+operative_part_lib "C:/Users/e229154f/Documents/HDS/operative_part/operative_part_lib/hdl/lin_receiver_struct.vhd" -2002

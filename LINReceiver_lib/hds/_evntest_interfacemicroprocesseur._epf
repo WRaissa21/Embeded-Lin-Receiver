@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom TestbenchArchitecture
+DEFAULT_FILE atom EvnTest_InterfaceMicroprocesseur_TestbenchArchitecture.vhd
